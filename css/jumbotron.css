@@ -1,0 +1,154 @@
+body {
+  margin: 0;
+  background-image: url("../images/fabric_plaid_2@2X.png");
+}
+
+.page-header {
+  background-color: #2F6430;
+  color: white;
+}
+
+.panel-body {
+  padding-top: 5px;
+}
+
+.jumbotron {
+    background-image: url("../images/jumbo7-2.jpg");
+    color: white;
+
+}
+
+.navbar-btn {
+  margin-top: 16px;
+  margin-bottom: 8px;
+  border:1px solid transparent;
+}
+
+.list-group {
+  margin-bottom: 1px;
+  font-size: 12px;
+}
+.panel-default {
+  margin-top: 1px;
+  border:1px solid transparent;
+ /* border-color: #dddddd;*/
+}
+
+.panel-default-jumbo {
+  position:
+  border:1px solid transparent;
+  margin-top: 16px;
+  background-color: transparent;
+ /* border-color: #dddddd;*/
+}
+
+.navbar-default {
+  border-color: #e7e7e7;
+  background-color: white;
+}
+
+.jumbotron .container {
+    max-width: 75%;
+}
+
+.navbar-default .navbar-nav > li > a {
+    font-size: 20px;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: #2F6430;
+}
+
+h1,
+.h1 {
+  font-size: 28px;
+}
+
+
+.navbar-default .navbar-brand
+{
+  margin-top: 10px;
+  margin-left:20px;
+  padding-right: 10px;
+  width: 250px;
+  height: 72px;
+  background: url("../images/400dpiLogo.jpg") no-repeat left center;
+  background-size: 200px;
+
+}
+
+@media screen and (min-width: 768px) {
+  .thumbnail-front-box {
+    display: block;
+    margin-bottom: 20px;
+    padding: 4px;
+    height:450px;
+    border: 1px solid #dddddd;
+    border-radius: 4px;
+    background-color: #ffffff;
+    line-height: 1.428571429;
+    -webkit-transition: all 0.2s ease-in-out;
+            transition: all 0.2s ease-in-out;
+  }
+}
+
+.thumbnail-front {
+  display: block;
+  margin-bottom: 20px;
+  padding: 4px;
+  border: 0px solid #dddddd;
+  border-radius: 4px;
+  background-color: #ffffff;
+  line-height: 1.428571429;
+  -webkit-transition: all 0.2s ease-in-out;
+          transition: all 0.2s ease-in-out;
+}
+
+.thumbnail > .btn-primary {
+  margin-bottom: 5px;
+}
+
+.btn-default-sexed {
+  margin-top: 2px;
+  margin-bottom: 2px;
+  border-spacing: 2px;
+  border-color: #2F6430;
+  background-color: #ebebeb;
+  color: #333333;
+}
+
+
+.btn-default-front-box {
+  position:absolute;
+  bottom:30px;
+  border-color: #cccccc;
+  background-color: #ffffff;
+  color: #333333;
+}
+
+.btn-primary {
+  border-color: #075E00;
+  background-color: #2F6430;
+}
+
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.open .dropdown-toggle.btn-primary {
+  color: #ffffff;
+  background-color: rgba(23, 71, 16, 0.5);
+  border-color: #285e8e;
+
+
+/*.jumbotron p {
+    color: black;
+    background: rgba(255, 255, 255, 0.6);
+    padding-left: 2px;
+}
+*/
+h2,
+.h2 {
+  font-size: 17px;
+}
